@@ -1,0 +1,39 @@
+<html>
+ <head>
+ <title>Lists</title>
+ </head>
+ <body bgcolor="GOLD">
+ <h3>CONTINENTS AND NATIONS</h3>
+ <ul><font size="4">
+ <li>ASIA</li>
+ <ol type="i">
+ <li>India</li>
+ <li>Sri Lanka</li> 
+ <li>Bangladesh</li>
+ <li>Pakistan</li>
+ </ol>
+ <li>EUROPE</li> 
+ <ol type="i">
+ <li>France</li>
+ <li>Portugal</li>
+ <li>Germany</li>
+ <li>Denmark</li>
+ </ol>
+ <li>AFRICA</li>
+ <ol type="i">
+ <li>South Africa</li>
+ <li>Egypt</li>
+ <li>Nigeria</li>
+ <li>Kenya</li>
+ </ol>
+ <li>SOUTH AMERICA</li> 
+ <ol type="i">
+ <li></li>
+ <li>Argentina</li>
+ <li>Brazil</li>
+ <li>Chille</li>
+ </ol>
+ </font>
+ </ul>
+ </body>
+ </html>

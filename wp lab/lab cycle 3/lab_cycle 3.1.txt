@@ -1,0 +1,47 @@
+<html>
+ <head>
+ <title>CSS</title>
+ <style>
+ body{
+ background-color: lightgreen;
+ }
+ h1{
+ text-align:center;
+ color:Red;
+ }
+ h2{
+ background-color: darkgreen;
+ color: yellow;
+ }
+ p{
+ border: 2px solid powderblue;
+ padding: 30px;
+ }
+ </style>
+ </head>
+ <body>
+ <b><h1>Ramesh P R</h1></b>
+ <ul type="Square">
+ <li><h2>Personal Details</h2> <br>
+ <ul> <li>
+ Plavarthala(H)</li><li>Cheruthuruthy P O </li><li>Pin : 679531</li><li>THRISSUR</li> 
+</ul></li>
+ <li><h2>Educational Details</h2>
+ <ul>
+ <li>SSLC</li>
+ <li>Plus Two</li>
+ <li>BSc Physics</li>
+ <li>MCA </li> </ul></li>
+ <li><h2>Hobbies</h2>
+ <ul>
+ <li>Gaming</li>
+ <li>Exploring</li>
+ <li>FOOTBALL</li>
+ <li>Eating</li></ul> </li>
+ </ul>
+ <p> <b>Contact : </b> <br><br>
+ Plavarthala(H) <br>CheruthuruthyP O <br> Pin : 679531 <br>
+ <a href="tel:+91 7025107494">Call 7025107494</a> <br>
+ <a href="mailto:rameshrajendran9919@gmail.com">Mail Me</a> </p>
+ </body>
+</html>
